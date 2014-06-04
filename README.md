@@ -1,4 +1,4 @@
-#WooCommerce/Breeze child theme setup
+#WooCommerce/Breeze child theme
 
 
 This is an example setup for WooCommerce using the Breeze Child theme.
